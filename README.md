@@ -4,6 +4,8 @@ Unity material examples created with texture images from
 - https://cc0textures.com/
 - https://freepbr.com/ 
 
+![Unity materials](Images/materials.png)
+
 ## Installation
 
 ### Downloading
