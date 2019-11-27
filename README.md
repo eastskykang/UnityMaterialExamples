@@ -6,6 +6,13 @@ Unity material examples created with texture images from
 
 ## Installation
 
+### Downloading
+
+You can download materials and textures from [Release tab](https://github.com/eastskykang/UnityMaterialExamples/releases).
+Download Resources.tar.xz file and extract it to your Unity project Asset directory.
+
+### Cloning project
+
 1. Clone this repository with git and [git-lfs](https://git-lfs.github.com/): we use git-lfs for large files such as materials, meshes, texture images etc.
     ```sh
     $ git clone https://github.com/eastskykang/RaiSimUnity.git
